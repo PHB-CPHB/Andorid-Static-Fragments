@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Kotlin Anko Template</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_main_fragment">Hello Main fragment</string>
+    <string name="hello_sub_fragment">Hello Sub fragment</string>
 </resources>
